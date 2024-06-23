@@ -1,0 +1,1 @@
+# dev.go.hackerspace-krk.pl
